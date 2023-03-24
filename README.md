@@ -97,7 +97,7 @@ Taks 1:
       $git push
       
   10.
-    Than i deleted branch1 in the repository and the remote:
+    Than I deleted branch1 in the repository and the remote:
       $git branch --delete branch1
       $git push origin --delete branch1
       
